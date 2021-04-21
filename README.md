@@ -1,5 +1,5 @@
 # Linux-Is-Great
-Upcoming Project Bash Script(Useless Project)
+Simple Bash Script Project:)
 
 Hello It's Me, Paramilk
 
