@@ -1,1 +1,1 @@
-echo "Well, Your On A Linux Distro(I Think?)"
+echo "Well, You're On A Linux Distro(I Think?)"
