@@ -9,3 +9,6 @@ Yes, This is Useless
 
 Sincerly
 -Parmilk >:3
+
+For Noobs
+To Execute: bash islinuxgood.sh
